@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BLOG-APP-APIS/images/AngJava.png&apos; to &apos;default.png&apos;" description="Rename resource &apos;AngJava.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="images/AngJava.png" name="default.png" stamp="1662199380248" updateReferences="true"/>
+</session>
